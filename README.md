@@ -6,7 +6,7 @@ This project analyzes food delivery operations using **Power BI** to identify pe
 
 The objective of this dashboard is to transform raw operational data into actionable business insights that improve efficiency and customer satisfaction.
 
-
+---
 
 ##  Key Dashboard Metrics  
 
@@ -30,7 +30,7 @@ The dashboard provides insights into:
 - **Power Query** – Data Cleaning & Transformation  
 - **CSV Dataset** – Operational Data Source  
 
-
+---
 
 ##  Data Cleaning & Transformation  
 
