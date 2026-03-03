@@ -1,6 +1,3 @@
-# Food-Delivery-Operations-Analysis
-Power BI dashboard analysing food delivery operations including KPIs, delivery time, ratings and performance insights.
-
 # Food Delivery Operations Analysis Dashboard
 
 ## Project Overview
