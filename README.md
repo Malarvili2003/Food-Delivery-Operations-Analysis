@@ -82,5 +82,5 @@ This dashboard enables data-driven decision-making by providing operational visi
 
 The project demonstrates practical skills in **data analysis, KPI development, DAX modeling, and business intelligence reporting.**
 
----
+
  
